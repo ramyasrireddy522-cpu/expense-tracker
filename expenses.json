@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "amount": 50.0,
+        "description": "Lunch at restaurant",
+        "category": "Food",
+        "date": "2026-09-24 12:30:00"
+    },
+    {
+        "id": 2,
+        "amount": 20.0,
+        "description": "Uber ride",
+        "category": "Transport",
+        "date": "2026-09-24 14:15:00"
+    }
+]
